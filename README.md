@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mercado Libre as a Software Developer**
 
-- 🌱 Currently learning **Testing for React apps and NodeJS, Java**
+- 🌱 Currently learning **Testing for React apps, Java**
 
 - 📫 How to reach me **victor7mendez@gmail.com**
 
